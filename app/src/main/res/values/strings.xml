@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task 3</string>
+    <string name="austria">Austria</string>
+    <string name="poland">Poland</string>
+    <string name="italy">Italy</string>
+    <string name="columbia">Columbia</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="thailand">Thailand</string>
+    <string name="denmark">Denmark</string>
+    <string name="switzerland">Switzerland</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="standard_download">Standard Download</string>
+    <string name="edit_text_hint">Put Url Here</string>
+    <string name="download_with_picasso">Download with Picasso</string>
+    <string name="download_with_glide">Download With Glide</string>
+</resources>
